@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spritedatalist count="2">
+    <spritedata name="baseh_1" imagepath="hole/basehole_small.png" scalex="1" scaley="1" postionx="559.13" postiony="336.038" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="baseb_2" imagepath="ball/baseball_small.png" scalex="1" scaley="1" postionx="65.9467" postiony="592.619" rotation="0" isflipx="0" isflipy="0"/>
+</spritedatalist>

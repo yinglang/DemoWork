@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<box2ddesignerdata model="complete">
+    <layer scale="1">
+        <position x="0" y="0"/>
+    </layer>
+    <bodylist>
+        <body name="body2">
+            <bodydef type="0" angle="0" angulardumping="0" angularvelocity="0" lineardumping="0" gravityscale="1" issleepingallowed="1" isactive="1" isawake="1" isbullet="0" isfixedrotation="0">
+                <position x="4.90625" y="12.8125"/>
+                <linearvelocity x="0" y="0"/>
+                <massdata I="0" mass="0">
+                    <center x="0" y="0"/>
+                </massdata>
+            </bodydef>
+            <fixturelist>
+                <fixturedef density="0.5" friction="0.2" restitutuion="0" isSensor="0">
+                    <shapedef type="0" radius="3.48392">
+                        <center x="0" y="0"/>
+                    </shapedef>
+                    <filter categorybits="1" groundindex="0" maskbits="65535"/>
+                </fixturedef>
+            </fixturelist>
+            <userdata/>
+        </body>
+        <body name="body1">
+            <bodydef type="0" angle="0" angulardumping="0" angularvelocity="0" lineardumping="0" gravityscale="1" issleepingallowed="1" isactive="1" isawake="1" isbullet="0" isfixedrotation="0">
+                <position x="23.6563" y="8.85938"/>
+                <linearvelocity x="0" y="0"/>
+                <massdata I="0" mass="0">
+                    <center x="0" y="0"/>
+                </massdata>
+            </bodydef>
+            <fixturelist>
+                <fixturedef density="0" friction="0.2" restitutuion="0" isSensor="0">
+                    <shapedef type="1">
+                        <verticearray>
+                            <vertice x="-1.5" y="-3.35938"/>
+                            <vertice x="1.5" y="3.35938"/>
+                        </verticearray>
+                    </shapedef>
+                    <filter categorybits="1" groundindex="0" maskbits="65535"/>
+                </fixturedef>
+            </fixturelist>
+            <userdata/>
+        </body>
+        <body name="body0">
+            <bodydef type="0" angle="0" angulardumping="0" angularvelocity="0" lineardumping="0" gravityscale="1" issleepingallowed="1" isactive="1" isawake="1" isbullet="0" isfixedrotation="0">
+                <position x="13.625" y="11.5781"/>
+                <linearvelocity x="0" y="0"/>
+                <massdata I="0" mass="0">
+                    <center x="0" y="0"/>
+                </massdata>
+            </bodydef>
+            <fixturelist>
+                <fixturedef density="0" friction="0.2" restitutuion="0" isSensor="0">
+                    <shapedef type="1">
+                        <verticearray>
+                            <vertice x="-2.625" y="2.70313"/>
+                            <vertice x="2.625" y="-2.70313"/>
+                        </verticearray>
+                    </shapedef>
+                    <filter categorybits="1" groundindex="0" maskbits="65535"/>
+                </fixturedef>
+            </fixturelist>
+            <userdata/>
+        </body>
+    </bodylist>
+</box2ddesignerdata>

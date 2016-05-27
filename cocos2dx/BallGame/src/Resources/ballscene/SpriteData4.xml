@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spritedatalist count="4">
+    <spritedata name="baseh_1" imagepath="hole/basehole_small.png" scalex="1" scaley="1" postionx="48.9682" postiony="60.4924" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="baseb_1" imagepath="ball/baseball_small.png" scalex="1" scaley="1" postionx="242.658" postiony="322.063" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="ungrb_1" imagepath="ball/ungravityball_small.png" scalex="1" scaley="1" postionx="963.468" postiony="423.895" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="ungrh_1" imagepath="hole/ungravityhole_small.png" scalex="1" scaley="1" postionx="964.466" postiony="326.056" rotation="0" isflipx="0" isflipy="0"/>
+</spritedatalist>

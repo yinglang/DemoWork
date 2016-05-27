@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spritedatalist count="8">
+    <spritedata name="baseh_1" imagepath="hole/basehole_small.png" scalex="1" scaley="1" postionx="320.522" postiony="311.08" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="baseb_1" imagepath="ball/baseball_small.png" scalex="1" scaley="1" postionx="71.9382" postiony="117.4" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="ironb_1" imagepath="ball/ironball_small.png" scalex="1" scaley="1" postionx="663.959" postiony="476.808" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="ironh_1" imagepath="hole/ironhole_small.png" scalex="1" scaley="1" postionx="657.971" postiony="302.096" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="fence_3" imagepath="fence.png" scalex="1" scaley="1" postionx="226.68" postiony="304.092" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="fence_1" imagepath="fence.png" scalex="1" scaley="1" postionx="396.4" postiony="302.094" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="fence_2" imagepath="fence.png" scalex="1" scaley="1" postionx="271.606" postiony="416.905" rotation="280" isflipx="0" isflipy="0"/>
+    <spritedata name="fence_4" imagepath="fence.png" scalex="1" scaley="1" postionx="272.604" postiony="183.288" rotation="60" isflipx="0" isflipy="0"/>
+</spritedatalist>

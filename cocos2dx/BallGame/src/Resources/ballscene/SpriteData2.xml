@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spritedatalist count="6">
+    <spritedata name="baseh_1" imagepath="hole/basehole_small.png" scalex="1" scaley="1" postionx="78.9192" postiony="317.069" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="baseb_1" imagepath="ball/baseball_small.png" scalex="1" scaley="1" postionx="218.696" postiony="646.53" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="ironh_1" imagepath="hole/ironhole_small.png" scalex="1" scaley="1" postionx="628.02" postiony="324.06" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="ironb_1" imagepath="ball/ironball_small.png" scalex="1" scaley="1" postionx="469.277" postiony="669.492" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="baseb_2" imagepath="ball/baseball_small.png" scalex="1" scaley="1" postionx="990.427" postiony="667.496" rotation="0" isflipx="0" isflipy="0"/>
+    <spritedata name="baseh_2" imagepath="hole/basehole_small.png" scalex="1" scaley="1" postionx="1218.05" postiony="355.007" rotation="0" isflipx="0" isflipy="0"/>
+</spritedatalist>
